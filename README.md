@@ -1,5 +1,5 @@
+![dwfa_logo_small](https://github.com/CelineBoutinon/drinking-water-for-all/assets/143210563/ee97b7f1-f822-4134-a8f4-317eae1629cb)
 
-![Alt text](dwfa_logo_small-1.jpg)
 
 
 # FAIRE UNE ETUDE SUR L'EAU POTABLE AVEC POWER BI
