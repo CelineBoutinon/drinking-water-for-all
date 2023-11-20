@@ -27,7 +27,7 @@ Plusieurs sources publiques de données ont été utilisées pour compléter les
 
 
 ## Liste des dossiers & fichiers
-***
+
 * **dossiers :**
   - **donnees-brutes :** fichiers téléchargés depuis les sources (format .xlsx et .csv)
   - **donnees-nettoyees :** fichiers prêts à alimenter la base (format .csv)
@@ -35,8 +35,8 @@ Plusieurs sources publiques de données ont été utilisées pour compléter les
 
 
 * **fichiers :**
-	- **blueprint.pdf :** tableau de synthese des indicateurs par vue et par domaine d'expertise
-	- **creation_script.sql :** script de création de la base et des tables avec la fonction Forward Engineer de MySQL Workbench
+  - **blueprint.pdf :** tableau de synthese des indicateurs par vue et par domaine d'expertise
+  - **creation_script.sql :** script de création de la base et des tables avec la fonction Forward Engineer de MySQL Workbench
   - **dashboard.pbix :** tableau de bord réalisé avec Power BI Desktop
   - **data_prep.ipynb :** code Python permettant l'import des fichiers .csv, leur nettoyage et l'export vers la base de données MySQL (également au format .py)
   - **functions.py :** repertoire generique de fonctions a certaines desquelles le Notebook Jupyter fait appel
