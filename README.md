@@ -42,7 +42,7 @@ Plusieurs sources publiques de données ont été utilisées pour compléter les
   - **functions.py :** repertoire generique de fonctions a certaines desquelles le Notebook Jupyter fait appel
   - **mockup.pdf :** planches de visualisation des indicateurs presents dans le blueprint (="storyboard")
   - **schema.mwb :** schéma relationnel de la base MySQL
-	- **presentation.pdf :** diapositives de présentation du projet
+  - **presentation.pdf :** diapositives de présentation du projet
   - **presentation_notes.pdf :** notes d’accompagnement des diapositives de présentation du projet
   - **schema.mwb :** schema de la base dans MySQL (aussi au format .png)
 
